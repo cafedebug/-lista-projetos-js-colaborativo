@@ -1,5 +1,3 @@
-# -lista-projetos-js-colaborativo
-
 # Projetos JavaScript colaborativo <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 Este é um repositório com listas de projetos JavaScript colaborativa, para que outras pessoas possam usar como base de aprendizado e compartilhar conhecimento.
