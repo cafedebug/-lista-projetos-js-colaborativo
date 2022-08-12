@@ -5,7 +5,7 @@ Este é um repositório com listas de projetos JavaScript colaborativa, para que
 
 ## Como funciona?
 
-A lista está separa por níveis de conhecimento, não importa a versão do dotnet, mas é bom especificar. (`iniciante`, `intermediario`, `avancado`) e você ao adicionar o projeto deve colocar no nível que pertence a seu projeto, sendo API ou não.
+A lista está separa por níveis de conhecimento, não importa a versão do javascript, mas é bom especificar. (`iniciante`, `intermediario`, `avancado`) e você ao adicionar o projeto deve colocar no nível que pertence a seu projeto, sendo API ou não.
 
 Por exemplo:
 
