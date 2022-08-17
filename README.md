@@ -14,7 +14,7 @@ Por exemplo:
 
 projetos | Framework
 ---- | ----
-[nome do meu projeto](link para o meu projeto) | 1,3,..
+[nome do meu projeto](link para o meu projeto) | Vue
 ```
 
 ## Iniciante
