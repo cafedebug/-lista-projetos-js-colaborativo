@@ -12,27 +12,27 @@ Por exemplo:
 ```
 ## iniciante
 
-projetos | versão do framework
+projetos | Framework
 ---- | ----
 [nome do meu projeto](link para o meu projeto) | 1,3,..
 ```
 
 ## Iniciante
 
-projetos | Versão
+projetos | Framework
 ---- | ----
-[nome do projeto](repo) | version
+[nome do projeto](repo) | Framework
 
 
 ## Intermediário
 
-projetos | Versão
+projetos | Framework
 ---- | ----
-[nome do projeto](repo) | version
+[nome do projeto](repo) | Framework
 
 
 ## Avançado
 
-projetos | Versão
+projetos | Framework
 ---- | ----
-[nome do projeto](repo) | version
+[nome do projeto](repo) | Framework
