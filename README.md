@@ -35,4 +35,4 @@ projetos | Framework
 
 projetos | Framework
 ---- | ----
-[nome do projeto](repo) | Framework
+[Proficiencia Dev](https://github.com/JessicaNathany/proficiencia-dev-frontend) | React
